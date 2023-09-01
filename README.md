@@ -1,6 +1,6 @@
 # Nots_Wall.js
 NotesWall is a simple note taking app that allows users to create and save notes. 
-# Hosted Link:
+# Hosted Link: https://hackerbubai007.github.io/Nots_Wall.js/index.html
 
 ## Prerequisites
 
